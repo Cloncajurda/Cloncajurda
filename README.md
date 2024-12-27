@@ -15,7 +15,7 @@ HTML   CSS   JavaScript   PHP   APEX
 
 **Libraries / Frameworks :**
 
-ReactJS   Laravel   NodeJS 
+React  Node  Laravel 
 
 
 **Database Management System :**
